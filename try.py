@@ -11,6 +11,8 @@ import collections
 
 string = "ACCBADCCA"
 k = 3
+
+local changed
 print("string")
 def merge_the_tools(string, k):
     # your code goes here
